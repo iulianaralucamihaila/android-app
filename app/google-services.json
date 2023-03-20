@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599299762820",
+    "project_id": "whatsapp-849ed",
+    "storage_bucket": "whatsapp-849ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599299762820:android:9ffa82ca5db5ee1ea570d1",
+        "android_client_info": {
+          "package_name": "com.ralucamihaila.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599299762820-jqgiirb31ador3fu7vf3u8344nq4tlve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcl4RYKCgTuTOe9yKFsvXmbwj7FQDliY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599299762820-jqgiirb31ador3fu7vf3u8344nq4tlve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
